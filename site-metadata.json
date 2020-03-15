@@ -1,0 +1,14 @@
+{
+    "title": "Stackbit Ampersand Theme",
+    "layout_style": "grid",
+    "palette": "green",
+    "header": {
+        "title": "Ampersand",
+        "logo_img": "https://images.ctfassets.net/792lu4ti145y/7or0COzrVhFOaMlPW9bM1p/af75cdec409424da09ede86b7fecddf4/logo.png",
+        "has_nav": true
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "has_social": true
+    }
+}

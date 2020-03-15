@@ -1,0 +1,36 @@
+{
+    "links": [
+        {
+            "type": "twitter",
+            "title": "Twitter",
+            "icon": "fa-twitter",
+            "url": "https://twitter.com/cschagen"
+        },
+        {
+            "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "7E9kBzPbgc3de4WotHOGle"
+            }
+        },
+        {
+            "type": "github",
+            "title": "GitHub",
+            "icon": "fa-github",
+            "url": "https://github.com/cschagen"
+        },
+        {
+            "type": "linkedin",
+            "title": "LinkedIn",
+            "icon": "fa-linkedin",
+            "url": "https://www.linkedin.com/in/christianschagen/"
+        },
+        {
+            "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "3BYN2q0U96whyEsWUUxbe6"
+            }
+        }
+    ]
+}
