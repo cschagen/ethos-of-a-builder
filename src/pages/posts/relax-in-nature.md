@@ -5,6 +5,7 @@ subtitle: >-
   health will recharge and how I benefit from it.
 date: '2019-03-24'
 thumb_img_path: >-
+  https://images.ctfassets.net/792lu4ti145y/5uYwWaLsXom73fCSLjm6Al/ea1781f5f8e759eb89e15a32461ca302/4.jpg
 content_img_path: >-
   https://images.ctfassets.net/792lu4ti145y/5uYwWaLsXom73fCSLjm6Al/ea1781f5f8e759eb89e15a32461ca302/4.jpg
 excerpt: >-
